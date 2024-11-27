@@ -24,11 +24,11 @@ Protótipo Interativo
 
 #Este projeto foi realizado por:
 
-Alessandro de Oliveira Rocha
-Jonathan da Silva Xavier
-Maicon da Silveira Borges
-Mariana de Oliveira Muniz
-Tomaz de Lima Soares
+*Alessandro de Oliveira Rocha
+*Jonathan da Silva Xavier
+*Maicon da Silveira Borges
+*Mariana de Oliveira Muniz
+*Tomaz de Lima Soares
 
 # Licença
 Este projeto é de uso acadêmico e está licenciado exclusivamente para fins de avaliação na disciplina.
